@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title="ElectroPlay"
       description={`Документация ElectroPlay – ${siteConfig.tagline}, есть здесь!`}>
       <HomepageHeader />
       <main>
