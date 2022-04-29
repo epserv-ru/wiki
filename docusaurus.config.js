@@ -17,6 +17,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'epserv-ru', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
+  trailingSlash: false,
 
   i18n: {
     defaultLocale: 'ru',
