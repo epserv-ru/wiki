@@ -34,6 +34,23 @@ const sidebars = {
         "main-info/donations",
       ],
     },
+    {
+      type: "category",
+      label: "Скиллы",
+      link: {
+        type: "doc",
+        id: "skills/intro",
+      },
+      items: [
+        "skills/intro",
+        "skills/combat",
+        "skills/mining",
+        "skills/foraging",
+        "skills/archery",
+        "skills/enchanting",
+        "skills/fishing",
+      ],
+    },
   ],
 
   // But you can create a sidebar manually
