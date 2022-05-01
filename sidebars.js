@@ -46,6 +46,7 @@ const sidebars = {
         "skills/combat",
         "skills/mining",
         "skills/foraging",
+        "skills/farming",
         "skills/archery",
         "skills/enchanting",
         "skills/fishing",
