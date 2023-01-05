@@ -50,6 +50,7 @@ const sidebars = {
         "skills/archery",
         "skills/enchanting",
         "skills/fishing",
+        "skills/mastery",
       ],
     },
   ],
