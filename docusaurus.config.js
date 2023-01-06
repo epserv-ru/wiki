@@ -10,7 +10,7 @@ let mainInfoLabel = 'Основная информация';
 const config = {
   title: 'Документация',
   tagline: 'основная информация, полезные туториалы и всё, что может понадобиться для лучшего понимания игрового процесса ElectroPlay',
-  url: 'https://docs.epserv.ru/',
+  url: 'https://epserv.wiki/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -125,7 +125,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
+      }
     }),
 };
 
