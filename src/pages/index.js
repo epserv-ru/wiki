@@ -1,4 +1,6 @@
 import React from 'react';
+import {Redirect} from '@docusaurus/router';
+/*
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -38,4 +40,9 @@ export default function Home() {
       </main>
     </Layout>
   );
+}
+*/
+
+export default function Home() {
+  return (<Redirect to="/docs/intro" />);
 }
