@@ -53,6 +53,18 @@ const sidebars = {
         "skills/mastery",
       ],
     },
+    {
+      type: "doc",
+      id: "reputation",
+    },
+    {
+      type: "doc",
+      id: "friends",
+    },
+    {
+      type: "doc",
+      id: "user_mods",
+    },
   ],
 
   // But you can create a sidebar manually
