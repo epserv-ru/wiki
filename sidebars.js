@@ -63,7 +63,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      id: "user_mods",
+      id: "community-center",
     },
   ],
 
