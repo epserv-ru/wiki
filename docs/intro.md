@@ -30,3 +30,4 @@ sidebar_position: 1
 - Правила: https://epserv.ru/rules/
 - ВК: https://vk.com/epsrv
 - Discord: https://epserv.ru/discord/
+- Telegram: https://t.me/epserv
