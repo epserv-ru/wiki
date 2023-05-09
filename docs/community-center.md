@@ -6,7 +6,8 @@
 
 Будьте первыми, кто сделает вклад в центр сообщества! Используйте кнопку редактирования страницы ниже, чтобы добавить сюда что-то своё.
 
+### EPTotems
 
-Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectoPlay --> [EPTotems_v1.2.zip](https://github.com/epserv-ru/docs/files/11433639/EPTotems_v1.2.zip)
-Файл с названиями --> [ЕП тотемы.txt](https://github.com/epserv-ru/docs/files/11433644/default.txt)
+Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectoPlay. Скачать: https://epserv.ru/media/files/eptotems/EPTotems_v1.2.zip.
 
+Имена игроков, поддерживаемые этим ресурспаком: https://epserv.ru/media/files/eptotems/players_v1.2.txt.
