@@ -11,3 +11,8 @@
 Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectroPlay. Скачать: https://epserv.ru/media/files/eptotems/EPTotems_v1.2.zip.
 
 Имена игроков, поддерживаемые этим ресурспаком: https://epserv.ru/media/files/eptotems/players_v1.2.html.
+
+### OptiSodium 1.19+
+
+Одна из лучших сборок на оптимизацию.
+Скачать >>> https://minecraft-inside.ru/161590/
