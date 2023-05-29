@@ -54,6 +54,18 @@ const sidebars = {
       ],
     },
     {
+      type: "category",
+      label: "Полезные команды",
+      link: {
+        type: "generated-index",
+        slug: "useful-commands",
+        description: "В этом разделе описаны все команды, которые могут вам пригодиться в игре.",
+      },
+      items: [
+        "useful-commands/toggle",
+      ],
+    },
+    {
       type: "doc",
       id: "reputation",
     },
