@@ -63,6 +63,7 @@ const sidebars = {
       },
       items: [
         "useful-commands/toggle",
+        "useful-commands/top",
       ],
     },
     {
