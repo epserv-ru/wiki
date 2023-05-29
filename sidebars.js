@@ -68,6 +68,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "chat-and-formatting",
+    },
+    {
+      type: "doc",
       id: "reputation",
     },
     {
