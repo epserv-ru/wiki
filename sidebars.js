@@ -72,6 +72,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "badges",
+    },
+    {
+      type: "doc",
       id: "reputation",
     },
     {
