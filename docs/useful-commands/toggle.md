@@ -29,5 +29,5 @@
 
 ## Другое
 
-- `/toggle phantoms` – спавн фантомов на себе
+- `/toggle phantoms` – персональный спавн фантомов вокруг вас
 - `/toggle skills` – система [скиллов](/docs/skills/intro) у себя
