@@ -54,6 +54,8 @@ const config = {
     ],
   ],
 
+  themes: ['docusaurus-theme-search-typesense'],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -126,7 +128,25 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      }
+      },
+      typesense: {
+        typesenseCollectionName: 'epserv-public-wiki',
+
+        typesenseServerConfig: {
+          nodes: [
+            {
+              host: 'docsearch.epserv.wiki',
+              port: 443,
+              protocol: 'https',
+            },
+          ],
+          apiKey: '1SeyotRysWrXSSjY85emmDVzMMNntVil',
+        },
+        
+        typesenseSearchParameters: {},
+
+        contextualSearch: true,
+      },
     }),
 };
 
