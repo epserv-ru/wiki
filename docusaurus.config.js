@@ -8,7 +8,7 @@ let mainInfoLabel = 'Основная информация';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Документация',
+  title: 'Вики',
   tagline: 'основная информация, полезные туториалы и всё, что может понадобиться для лучшего понимания игрового процесса ElectroPlay',
   url: 'https://epserv.wiki/',
   baseUrl: '/',
@@ -18,6 +18,7 @@ const config = {
   organizationName: 'epserv-ru', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   trailingSlash: false,
+  titleDelimiter: '–',
 
   i18n: {
     defaultLocale: 'ru',
@@ -57,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Документация',
+        title: 'Вики',
         logo: {
           alt: 'EP',
           src: 'img/logo.svg',
@@ -81,7 +82,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Документация',
+            title: 'Вики',
             items: [
               {
                 label: mainInfoLabel,
