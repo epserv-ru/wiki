@@ -4,8 +4,8 @@
   <ShortName>Вики</ShortName>
   <Description>Search Вики</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://epserv.wiki/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://epserv.wiki/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://epserv.wiki/opensearch.xml" />
-  <moz:SearchForm>https://epserv.wiki/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://wiki.epserv.ru/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://wiki.epserv.ru/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://wiki.epserv.ru/opensearch.xml" />
+  <moz:SearchForm>https://wiki.epserv.ru/</moz:SearchForm>
 </OpenSearchDescription>
