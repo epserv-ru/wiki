@@ -10,7 +10,7 @@ let mainInfoLabel = 'Основная информация';
 const config = {
   title: 'Вики',
   tagline: 'основная информация, полезные туториалы и всё, что может понадобиться для лучшего понимания игрового процесса ElectroPlay',
-  url: 'https://epserv.wiki/',
+  url: 'https://wiki.epserv.ru/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -135,7 +135,7 @@ const config = {
         typesenseServerConfig: {
           nodes: [
             {
-              host: 'docsearch.epserv.wiki',
+              host: 'wikisearch.epserv.ru',
               port: 443,
               protocol: 'https',
             },
