@@ -16,4 +16,4 @@
 
 Одна из лучших сборок на оптимизацию от нашего игрока, StrombleX.
 
-Скачать сборку можно здесь: <https://modrinth.com/modpack/optisodium>
+Скачать сборку можно здесь: https://modrinth.com/modpack/optisodium
