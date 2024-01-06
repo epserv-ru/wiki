@@ -17,7 +17,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'epserv-ru', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'wiki', // Usually your repo name.
   trailingSlash: false,
   titleDelimiter: '–',
 
@@ -39,13 +39,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/epserv-ru/docs/tree/main/',
+          editUrl: 'https://github.com/epserv-ru/wiki/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
         //   // Please change this to your repo.
         //   editUrl:
-        //     'https://github.com/epserv-ru/docs/tree/main/',
+        //     'https://github.com/epserv-ru/wiki/tree/main/',
         // },
         blog: false,
         theme: {
@@ -75,7 +75,7 @@ const config = {
           },
           // {to: '/blog', label: 'Блог', position: 'left'},
           {
-            href: 'https://github.com/epserv-ru/docs',
+            href: 'https://github.com/epserv-ru/wiki',
             label: 'Редактировать на GitHub',
             position: 'right',
           },
@@ -119,7 +119,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/epserv-ru/docs',
+                href: 'https://github.com/epserv-ru/wiki',
               },
             ],
           },
