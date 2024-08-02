@@ -34,4 +34,4 @@
 - `/toggle phantoms` – персональный спавн фантомов вокруг вас
 - `/toggle skills` – система [скиллов](/docs/skills/intro) у себя
 - `/toggle resource-pack` – серверный ресурс-пак
-- `/toggle warden-boss-bar` – включение/выключение босс бара Хранителя
+- `/toggle warden-boss-bar` – босс-бар Хранителя
