@@ -8,9 +8,9 @@
 
 ### EPTotems
 
-Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectroPlay. Скачать: [EPTotems_v1.6.zip](https://epserv.ru/media/files/eptotems/EPTotems_v1.6.zip).
+Ресурс-пак, добавляющий в игру тотемы со скинами популярных игроков ElectroPlay. Скачать можно на [Modrinth](https://modrinth.com/resourcepack/eptotems).
 
-Имена игроков, поддерживаемые этим ресурспаком: [players_v1.6.html](https://epserv.ru/media/files/eptotems/players_v1.6.html).
+Список никнеймов игроков, присутствующих в ресурспаке: [EPtotems list](https://nedostupn0.space/).
 
 ### OptiSodium 1.19+
 
