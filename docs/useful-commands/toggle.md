@@ -33,7 +33,7 @@
 
 - `/toggle phantoms` – персональный спавн фантомов вокруг вас
 - `/toggle skills` – система [скиллов](/docs/skills/intro) у себя
+- `/toggle speedometer` – спидометр
 - `/toggle resource-pack` – серверный ресурс-пак
 - `/toggle warden-boss-bar` – босс-бар Хранителя
-- `/toggle speedometer` – спидометр
 - `/toggle winter-snow` – эффекты снега вместо дождя с декабря по февраль
