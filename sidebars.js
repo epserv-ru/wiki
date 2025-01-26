@@ -64,6 +64,7 @@ const sidebars = {
       items: [
         "useful-commands/toggle",
         "useful-commands/top",
+        "useful-commands/mail",
       ],
     },
     {
