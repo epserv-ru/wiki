@@ -8,19 +8,19 @@
 
 Тег `#nocopy` исходя из своего названия не позволит создать копию карты всеми возможными способами – на верстаке, либо в столе картографа.
 
-![Превью](https://i.imgur.com/Sn7iYeG.gif)
+![Превью](/img/map-tags/nocopy-map-tag.gif)
 
 ## Тег #invframe
 
 Тег `#invframe` сделает фон рамки, в которую вставляется карта невидимым.
 
-![Превью](https://i.imgur.com/CLzgTg6.gif)
+![Превью](/img/map-tags/invframe-map-tag.gif)
 
 ## Тег #author
 
 Тег `#author` добавит в описание карты имя её автора. Теперь Ваш шедевр не будет анонимным!
 
-![Превью](https://i.imgur.com/CBa024N.gif)
+![Превью](/img/map-tags/author-map-tag.gif)
 
 :::note Использование нескольких тегов
 
