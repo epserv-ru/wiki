@@ -27,11 +27,15 @@
 - `/toggle action-bar-clock` – отображение внутриигрового времени над инвентарём (в action bar)
 - `/toggle action-bar-restart` – отображение обратного отсчёта до перезапуска сервера над инвентарём (в action bar)
 - `/toggle health` – отображение здоровья игрока над его головой
+- `/toggle projectile-damage-messages` – уведомления о попадании снярядами в мобов
+- `/toggle speedometer` – отображение скорости в метрах в секунду, а также угла наклона при полете на элитрах над инвентарём (в action bar)
 - `/toggle tab-mspt` – отображение MSPT в табе
+- `/toggle tab-uptime` – отображение времени работы серсвера в табе
+- `/toggle warden-boss-bar` – босс-бар Хранителя
 
 ## Другое
 
 - `/toggle phantoms` – персональный спавн фантомов вокруг вас
 - `/toggle skills` – система [скиллов](/docs/skills/intro) у себя
 - `/toggle resource-pack` – серверный ресурс-пак
-- `/toggle warden-boss-bar` – босс-бар Хранителя
+- `/toggle winter-snow` – эффекты снега вместо дождя с декабря по февраль
