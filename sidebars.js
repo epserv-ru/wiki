@@ -36,7 +36,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Скиллы",
+      label: "Навыки",
       link: {
         type: "doc",
         id: "skills/intro",
