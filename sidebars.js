@@ -69,6 +69,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "armorstands",
+    },
+    {
+      type: "doc",
       id: "itemframe-features",
     },
     {
