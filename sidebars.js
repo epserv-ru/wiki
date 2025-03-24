@@ -69,6 +69,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "itemframe-features",
+    },
+    {
+      type: "doc",
       id: "chat-and-formatting",
     },
     {
