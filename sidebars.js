@@ -77,6 +77,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "glass-paint",
+    },
+    {
+      type: "doc",
       id: "chat-and-formatting",
     },
     {
