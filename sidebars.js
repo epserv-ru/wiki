@@ -69,11 +69,11 @@ const sidebars = {
     },
     {
       type: "doc",
-      id: "armorstands",
+      id: "armor-stands",
     },
     {
       type: "doc",
-      id: "itemframe-features",
+      id: "item-frame-features",
     },
     {
       type: "doc",
