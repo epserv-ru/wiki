@@ -65,7 +65,8 @@ const sidebars = {
         "useful-commands/toggle",
         "useful-commands/top",
         "useful-commands/mail",
-        "useful-commands/ignore"
+        "useful-commands/ignore",
+        "useful-commands/team"
       ],
     },
     {
