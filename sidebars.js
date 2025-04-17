@@ -36,7 +36,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Скиллы",
+      label: "Навыки",
       link: {
         type: "doc",
         id: "skills/intro",
@@ -64,7 +64,22 @@ const sidebars = {
       items: [
         "useful-commands/toggle",
         "useful-commands/top",
+        "useful-commands/mail",
+        "useful-commands/ignore",
+        "useful-commands/team"
       ],
+    },
+    {
+      type: "doc",
+      id: "armor-stands",
+    },
+    {
+      type: "doc",
+      id: "item-frame-features",
+    },
+    {
+      type: "doc",
+      id: "glass-paint",
     },
     {
       type: "doc",
