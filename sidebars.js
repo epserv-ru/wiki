@@ -87,6 +87,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "map-tags",
+    },
+    {
+      type: "doc",
       id: "badges",
     },
     {
