@@ -30,6 +30,7 @@ const sidebars = {
         description: "В этом разделе вы сможете найти много полезной информации о самом сервере, а также про то, кто работает и играет на этом сервере, про существующие донаты и многое другое.",
       },
       items: [
+        "main-info/connecting",
         "main-info/server-staff",
         "main-info/donations",
       ],
@@ -80,6 +81,10 @@ const sidebars = {
     {
       type: "doc",
       id: "glass-paint",
+    },
+    {
+      type: "doc",
+      id: "wood-in-stonecutter",
     },
     {
       type: "doc",
