@@ -18,11 +18,11 @@
 
 ### Выбрасыватель
 
-![Превью](/img/craft-redstone-blocks-from-deepslate/droppper.png.gif)
+![Превью](/img/craft-redstone-blocks-from-deepslate/droppper.png)
 
 ### Наблюдатель
 
-![Превью](/img/craft-redstone-blocks-from-deepslate/observer.png.gif)
+![Превью](/img/craft-redstone-blocks-from-deepslate/observer.png)
 
 ### Поршень
 
