@@ -18,7 +18,7 @@
 
 ### Выбрасыватель
 
-![Превью](/img/img/craft-redstone-blocks-from-deepslate/droppper.png.gif)
+![Превью](/img/craft-redstone-blocks-from-deepslate/droppper.png.gif)
 
 ### Наблюдатель
 
