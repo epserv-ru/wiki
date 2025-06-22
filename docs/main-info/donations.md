@@ -214,8 +214,24 @@ sidebar-position: 2
 
 ## Сообщения о входе и выходе
 
-:::warning Обратите внимание!
+Некоторые наборы эффектов включают в себя особые сообщения о входе и выходе с сервера. Отдельно от полного комплекта такие сообщения о входе и выходе приобрести нельзя.
 
-Сообщения о входе и выходе, включённые в некоторые из наборов, приобрести отдельно от полного комплекта нельзя.
+### Новогодний набор
+![Вход](/img/donations/join-quit-messages/new-year-pack-join.png)
 
-:::
+![Выход](/img/donations/join-quit-messages/new-year-pack-quit.png)
+
+### Набор "Хэллоуин"
+![Вход](/img/donations/join-quit-messages/halloween-kit-join.png)
+
+![Выход](/img/donations/join-quit-messages/halloween-kit-quit.png)
+
+### Набор "Незер"
+![Вход](/img/donations/join-quit-messages/nether-kit-join.png)
+
+![Выход](/img/donations/join-quit-messages/nether-kit-quit.png)
+
+### Набор "Души Незера"
+![Вход](/img/donations/join-quit-messages/nether-souls-kit-join.png)
+
+![Выход](/img/donations/join-quit-messages/nether-souls-kit-quit.png)
