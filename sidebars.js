@@ -88,6 +88,10 @@ const sidebars = {
     },
     {
       type: "doc",
+      id: "deepslate-crafting-recipes",
+    },
+    {
+      type: "doc",
       id: "chat-and-formatting",
     },
     {
