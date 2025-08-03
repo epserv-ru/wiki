@@ -30,7 +30,7 @@
 
 ### Раздатчик
 
-![Превью](/img/craft-redstone-blocks-from-deepslate/dispencer.png)
+![Превью](/img/craft-redstone-blocks-from-deepslate/dispenser.png)
 
 ### Рычаг
 
