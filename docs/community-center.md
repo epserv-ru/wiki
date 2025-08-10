@@ -12,12 +12,6 @@
 
 Список никнеймов игроков, присутствующих в ресурспаке: [EPtotems list](https://nedostupn0.space/).
 
-### OptiSodium 1.19+
-
-Одна из лучших сборок на оптимизацию от нашего игрока, StrombleX.
-
-Скачать сборку можно здесь: https://modrinth.com/modpack/optisodium
-
 ### EP Modpack
 
 Установщик модов, созданный специально для комфортной игры на ElectroPlay. Установив моды с помощью этого установщика, вы сможете быть абсолютно уверены, что ваша сборка не вызовет проблем с правилами ElectroPlay.
@@ -35,3 +29,12 @@
 - Сборка с уже установленным загрузчиком модов: Fabric или Quilt
 
 Скачать установщик можно в [GitHub Releases](https://github.com/Kurasava/ep-modpack/releases).
+
+### OptiSodium — оптимизация Minecraft
+
+Лёгкая сборка модов для Minecraft с фокусом на максимальную производительность и стабильность.
+
+Сборка поддерживает версии Minecraft: Java Edition от 1.19 до последней и регулярно обновляется.
+
+- **Сайт сборки:** [optisodium.fun](https://optisodium.fun)
+- **GitHub:** [stromblex/OptiSodium](https://github.com/stromblex/OptiSodium)
