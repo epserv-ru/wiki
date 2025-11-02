@@ -14,12 +14,16 @@ const config = {
   url: 'https://wiki.epserv.ru/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'epserv-ru', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: false,
   titleDelimiter: '–',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'ru',
