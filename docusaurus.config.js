@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: '© 2025 ElectroPlay',
+        copyright: '© 2026 ElectroPlay',
       },
       prism: {
         theme: lightCodeTheme,
